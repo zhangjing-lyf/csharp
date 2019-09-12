@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\张静\\Desktop\\csharp\\csharp.csproj",
+      "projectUniqueName": "D:\\clone\\csharp\\csharp.csproj",
       "projectName": "csharp",
-      "projectPath": "C:\\Users\\张静\\Desktop\\csharp\\csharp.csproj",
+      "projectPath": "D:\\clone\\csharp\\csharp.csproj",
       "packagesPath": "C:\\Users\\张静\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\张静\\Desktop\\csharp\\obj\\",
+      "outputPath": "D:\\clone\\csharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

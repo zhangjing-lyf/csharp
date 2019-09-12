@@ -9,3 +9,14 @@ C:\Users\张静\Desktop\csharp\obj\Debug\netcoreapp2.1\csharp.AssemblyInfoInputs
 C:\Users\张静\Desktop\csharp\obj\Debug\netcoreapp2.1\csharp.AssemblyInfo.cs
 C:\Users\张静\Desktop\csharp\obj\Debug\netcoreapp2.1\csharp.dll
 C:\Users\张静\Desktop\csharp\obj\Debug\netcoreapp2.1\csharp.pdb
+D:\clone\csharp\bin\Debug\netcoreapp2.1\csharp.deps.json
+D:\clone\csharp\bin\Debug\netcoreapp2.1\csharp.runtimeconfig.json
+D:\clone\csharp\bin\Debug\netcoreapp2.1\csharp.runtimeconfig.dev.json
+D:\clone\csharp\bin\Debug\netcoreapp2.1\csharp.dll
+D:\clone\csharp\bin\Debug\netcoreapp2.1\csharp.pdb
+D:\clone\csharp\obj\Debug\netcoreapp2.1\csharp.csprojAssemblyReference.cache
+D:\clone\csharp\obj\Debug\netcoreapp2.1\csharp.csproj.CoreCompileInputs.cache
+D:\clone\csharp\obj\Debug\netcoreapp2.1\csharp.AssemblyInfoInputs.cache
+D:\clone\csharp\obj\Debug\netcoreapp2.1\csharp.AssemblyInfo.cs
+D:\clone\csharp\obj\Debug\netcoreapp2.1\csharp.dll
+D:\clone\csharp\obj\Debug\netcoreapp2.1\csharp.pdb
