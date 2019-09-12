@@ -15,6 +15,12 @@ namespace csharp
                 Console.WriteLine("this is my second line");
                 
             }
+            int i;
+            for(i=0;i<5;i++)
+            {
+                Console.WriteLine("this is {0}th run",i);
+
+            }
         }
     }
 }
